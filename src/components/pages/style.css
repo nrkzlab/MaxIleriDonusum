@@ -593,7 +593,7 @@ margin-bottom: 3%;
   margin-top: 0%;
 }
 #firstDownload {
-  height: 57% !important;
+  height: 60% !important;
 }
 .fikirCard{
   border: 5px solid rgb(246, 201, 81)!important;
@@ -644,7 +644,7 @@ margin-bottom: 3%;
   height: 24px;
   width: 78%;
   margin-top: -1% !important;
-  display: flex;
+  display: revert;
 }
 #gonulluSanatciTitle {
   display: flex;
