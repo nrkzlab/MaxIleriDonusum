@@ -163,10 +163,11 @@
 }
 
 .guncelTitle {
-  color: #fff !important;
-  font-size: 17px !important;
-  width: 100%;
-  text-align: left !important;
+    color: #fff!important;
+    font-size: 16px!important;
+    text-align: left!important;
+    width: 100%;
+    justify-content: flex-start;
 }
 
 .carousel-caption {
@@ -185,29 +186,28 @@
 }
 
 .guncelText {
-  color: #fff !important;
-  font-size: 13px !important;
-  width: 100%;
-  font-weight: 400 !important;
-  font-family: "GT Pressura" !important;
-  margin-bottom: 2% !important;
-  text-align: left !important;
+    color: #fff!important;
+    font-family: GT Pressura!important;
+    font-size: 12px!important;
+    font-weight: 400!important;
+    /* margin-bottom: 2%!important; */
+    text-align: left!important;
+    width: 100%;
 }
-
 .devaminiOkuGuncel {
-  background-color: rgb(230, 82, 68);
-  width: 50% !important;
-  font-family: "Stick-A-Round";
-  color: white;
-  font-size: 36px;
-  text-decoration: none;
-  border-radius: 9px;
-  display: flex;
-  justify-content: center;
-  text-align: center;
-  align-items: center;
-  height: 27px;
-  font-size: 20px;
+    align-items: center;
+    background-color: #e65244;
+    border-radius: 9px;
+    color: #fff;
+    display: flex;
+    font-family: Stick-A-Round;
+    font-size: 36px;
+    font-size: 18px;
+    height: 20px;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    width: 50%!important;
 }
 
 .guncelBlogText {
