@@ -627,7 +627,7 @@ margin-bottom: 3%;
 }
 
 .downloadButton {
-  font-size: 17px;
+  font-size: 13px;
   text-align: center;
   justify-content: center;
   font-family: "Stick-A-Round";
@@ -637,12 +637,12 @@ margin-bottom: 3%;
   font-style: normal;
   color: rgba(255, 255, 255, 1);
   background-color: rgba(230, 82, 68);
-  line-height: 12px;
+  line-height: 15px;
   letter-spacing: 0px;
   border-width: 0px;
   border-radius: 8px;
-  height: 44px;
-  width: 58%;
+  height: 24px;
+  width: 78%;
   margin-top: -1% !important;
 }
 #gonulluSanatciTitle {
