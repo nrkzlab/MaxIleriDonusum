@@ -11,8 +11,8 @@ export const volunteerArtistHeader =
   "DondUrma ÇUbuĞU gÖNÜllÜ SanaTÇılarImızın eLİndE neLere dÖNÜŞtü MeraK edİyor musUn?";
 export const volunteerArtistText =
   " Dondurma çubukları Onaranlar Kulübü gönüllü sanatçılarının elinde nelere dönüştü merak ediyorsan seni buraya alalım!";
-export const discoverMore = "HepsIne Göz At";
-export const discoverAll = "HepsIne Göz At";
+export const discoverMore = "Hepsİne Göz At";
+export const discoverAll = "Hepsİne Göz At";
 export const discover = "Keşfet";
 export const discoverHomeText =
   "İşte sizlerden gelen yaratıcı ileri dönüşüm projeleri!";
