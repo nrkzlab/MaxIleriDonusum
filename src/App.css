@@ -1,3 +1,21 @@
+@font-face {
+  font-family: "Stick-A-Round";
+  src: url(test1.woff);
+}
+
+div {
+  font-family: "Stick-A-Round";
+}
+  
+@font-face {
+  font-family: "GT Pressura";
+  src: url(GT-Pressura-Regular.woff);
+}
+
+div {
+  font-family: "GT Pressura";
+}
+
 .App {
   text-align: center;
   overflow-x: hidden;
