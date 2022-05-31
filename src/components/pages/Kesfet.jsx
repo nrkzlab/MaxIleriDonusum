@@ -54,7 +54,7 @@ function Kesfet() {
               <Card.Title>
                 {" "}
                 Simay Bahçıvan
-                <div className="meslekler"> / Illüstratör</div>
+                <div className="meslekler"> / İllüstratör</div>
               </Card.Title>
               <div className="projectName"> Kuş Yuvası</div>
 
@@ -76,7 +76,7 @@ function Kesfet() {
                 Elİf Atmaca
                 <div className="meslekler">
                   {" "}
-                  / Endüstriyel Tasarımcı, Sosyal GİRİŞİMCİ
+                  / Endüstrİyel Tasarımcı, Sosyal GİRİŞİMCİ
                 </div>
               </Card.Title>
               <div className="projectName"> Dondurma Canavarı PO</div>
@@ -190,7 +190,7 @@ function Kesfet() {
           <Card>
             <Card.Body>
               <Card.Title>
-                Uğur Acil
+                Uğur Acİl
                 <div className="meslekler">/ İllüstratör</div>
               </Card.Title>
               <div className="projectName"> Hi-mel</div>
@@ -271,7 +271,7 @@ function Kesfet() {
           <Card>
             <Card.Body>
               <Card.Title>
-                Salih Küçüktuna
+                Salİh Küçüktuna
                 <div className="meslekler">/ Mimari Tasarım</div>
               </Card.Title>
               <div className="projectName"> Flexigon</div>
@@ -569,7 +569,7 @@ function Kesfet() {
           <Card>
             <Card.Body>
               <Card.Title>
-                Fırat Neziroğlu{" "}
+                Fırat Nezİroğlu{" "}
                 <div className="meslekler">/ Dokuma Sanatçısı</div>
               </Card.Title>
               <div className="projectName"> Dokuma tezgahı (İplikli)</div>

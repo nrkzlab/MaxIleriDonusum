@@ -121,7 +121,7 @@ function MaxBlog() {
             <Card.Body className="maxBody">
               <Card.Title className="guncelBlogTitle">
                 {" "}
-                Dünyadan Yaratıcı İleri Dönüşüm Örnekleri
+                Dünyadan Yaratıcı İleri Dönüşüm Örneklerİ
               </Card.Title>
 
               <Card.Text className="guncelBlogText">

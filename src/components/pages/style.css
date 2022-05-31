@@ -644,6 +644,7 @@ margin-bottom: 3%;
   height: 24px;
   width: 78%;
   margin-top: -1% !important;
+  display: flex;
 }
 #gonulluSanatciTitle {
   display: flex;
