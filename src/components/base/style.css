@@ -73,13 +73,14 @@
 
 @media only screen and (max-width: 600px) {
   .navMenu {
-    display: inline-flex !important;
-    justify-content: center !important ;
-    align-items: center !important;
-    text-align: center !important;
-    margin-top: 3% !important;
-    padding: 3% !important;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 3%;
+    padding: 3%;
     margin-left: 1.3% !important;
+    width: 98% !important;
   }
   .nav-link {
     display: block;
@@ -88,7 +89,7 @@
       border-color 0.15s ease-in-out;
     font-family: "Stick-A-Round";
     color: rgba(230, 82, 68) !important;
-    font-size: 22px;
+    font-size: 26px !important;
     font-weight: 400;
     letter-spacing: -1px;
     margin-left: 0% !important;
@@ -97,7 +98,7 @@
 
   .logo {
     margin-left: 0% !important;
-    width: 20%;
+    width: 22%;
   }
 
   .footerLogo {
