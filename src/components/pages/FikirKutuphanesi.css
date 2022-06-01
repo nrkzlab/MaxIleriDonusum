@@ -48,7 +48,7 @@
   color: rgba(103, 99, 108) !important;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 376px) {
   .fikirKutuphanesiTabText {
     width: 97%;
     justify-content: center;
