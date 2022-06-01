@@ -202,8 +202,14 @@ a:hover {
 }
 
 .discoverMoreButton {
-  font-size: 23px;
+  font-size: 25px;
+    /* text-align: center; */
+    /* justify-content: center; */
     font-family: "Stick-A-Round";
+    /* text-decoration: none; */
+    /* border-style: solid; */
+    /* font-weight: 400; */
+    /* font-style: normal; */
     color: rgba(255, 255, 255, 1);
     background-color: rgba(230, 82, 68);
     line-height: 12px;
@@ -379,7 +385,10 @@ a:hover {
   }
 
   #artistsKV {
+       /* height: 100%; */
+    /* margin-left: 18%; */
     width: -webkit-fill-available;
+    /* margin-left: 0%; */
     border: 9px solid white;
     margin-bottom: 2%;
 
@@ -402,7 +411,9 @@ a:hover {
   }
 
   #fikirKV {
-
+  
+      /* height: 100%; */
+      /* margin-left: 18%; */
       width: -webkit-fill-available;
       margin-left: 0%;
   
@@ -438,28 +449,28 @@ a:hover {
   }
 
   #manifestoKV {
-    width: 80%;
+    width: 90% !important;
     height: 80%;
     margin-bottom: 4%;
   }
 
   #manifesto {
-    width: 98%;
+    width: 98% !important;
     justify-content: center;
     align-items: center;
     display: inline-flex;
     text-align: center;
     font-family: "GT Pressura" !important;
-    font-size: 23px !important;
+    font-size: 22px;
   }
   #manifesto2 {
-    width: 100% !important;
+    width: 91% !important;
     justify-content: center;
     align-items: center;
     display: inline-flex;
     text-align: center;
     font-family: "GT Pressura" !important;
-    font-size: 18px;
+    font-size: 22px;
     line-height: 23px;
 margin-bottom: 3%;
   }
@@ -477,7 +488,7 @@ margin-bottom: 3%;
   }
 
   .discoverMoreButton {
-    font-size: 22px !important;
+    font-size: 22px;
     text-align: center;
     justify-content: center;
     font-family: "Stick-A-Round";
@@ -500,7 +511,7 @@ margin-bottom: 3%;
   }
 
   #discoverAllButton {
-    font-size: 22px !important;
+    font-size: 22px;
     text-align: center;
     justify-content: center;
     font-family: "Stick-A-Round";
@@ -525,20 +536,19 @@ margin-bottom: 3%;
     margin-top: 13% !important;
   }
   #volunteerArtistHeader {
-    width: 100% !important;
+    width: 76% !important;
     justify-content: center;
     align-items: center;
     display: contents;
     text-align: center;
     font-family: "Stick-A-Round" !important;
-    font-size: 27px !important;
+    font-size: 42px;
     font-style: normal;
     font-weight: 400;
     color: rgba(102, 91, 192) !important;
     text-decoration: none;
     line-height: 130%;
     letter-spacing: 0px;
-  
 }
 #gonulluColumn{
   display: contents;
@@ -546,6 +556,7 @@ margin-bottom: 3%;
   align-items: center;
   margin-bottom: 3%;
   background: rgb(246, 201, 81);
+  width: 100%!important;
 
 }
 #fikirKutuphanesiHeader {
@@ -554,7 +565,7 @@ margin-bottom: 3%;
   display: flex;
   text-align: center;
   font-family: "Stick-A-Round" !important;
-  font-size: 30px !important;
+  font-size: 30px;
   font-style: normal;
   font-weight: bold;
   color: rgba(230, 82, 68) !important;
@@ -566,7 +577,10 @@ margin-bottom: 3%;
   margin-bottom: 0% !important;
 }
 .fikirKutuphanesiText {
-  width: 90% !important;
+  width: 90%;
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* display: inline-flex; */
   text-align: center;
   font-family: "GT Pressura" !important;
   font-size: 18px;
@@ -579,7 +593,7 @@ margin-bottom: 3%;
   margin-top: 0%;
 }
 #firstDownload {
-  height: 60% !important;
+  height: 57% !important;
 }
 .fikirCard{
   border: 5px solid rgb(246, 201, 81)!important;
@@ -596,6 +610,7 @@ margin-bottom: 3%;
 }
 .fikirGroup {
   padding: 1% 4% 0% 4% !important;
+  /* margin-top: 5% !important; */
   display: flex;
   margin-top: 3% !important;
 }
@@ -612,7 +627,7 @@ margin-bottom: 3%;
 }
 
 .downloadButton {
-  font-size: 13px !important;
+  font-size: 13px;
   text-align: center;
   justify-content: center;
   font-family: "Stick-A-Round";
@@ -627,9 +642,9 @@ margin-bottom: 3%;
   border-width: 0px;
   border-radius: 8px;
   height: 24px;
-  width: 100% !important;
+  width: 78%;
   margin-top: -1% !important;
-  display: revert;
+  display: flex;
 }
 #gonulluSanatciTitle {
   display: flex;
@@ -638,7 +653,7 @@ margin-bottom: 3%;
   align-items: center;
   font-family: "Stick-A-Round";
   color: rgba(230, 82, 68) !important;
-  font-size: 47px;
+  font-size: 56px !important;
   background-color: white;
   margin-top: 0%;
 }
